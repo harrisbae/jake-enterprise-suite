@@ -1,0 +1,20 @@
+# server/.gitignore
+node_modules/
+.env
+uploads/
+logs/
+.DS_Store
+
+# client/.gitignore
+node_modules/
+dist/
+.vite/
+.DS_Store
+
+# 전체
+*.log
+*.zip
+__pycache__/
+.env*
+.idea/
+.vscode/
